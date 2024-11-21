@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/8a7335d6bfbe4212af99b5fbc9f937d8/artifacts
+deleted_time: 1732184913481
+end_time: 1732184770978
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 8a7335d6bfbe4212af99b5fbc9f937d8
+run_name: big-mink-945
+run_uuid: 8a7335d6bfbe4212af99b5fbc9f937d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184770905
+status: 3
+tags: []
+user_id: MeM

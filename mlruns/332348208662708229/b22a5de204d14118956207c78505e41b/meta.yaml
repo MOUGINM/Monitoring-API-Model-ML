@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/b22a5de204d14118956207c78505e41b/artifacts
+deleted_time: 1732184913482
+end_time: 1732184770884
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: b22a5de204d14118956207c78505e41b
+run_name: illustrious-eel-692
+run_uuid: b22a5de204d14118956207c78505e41b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184770801
+status: 3
+tags: []
+user_id: MeM

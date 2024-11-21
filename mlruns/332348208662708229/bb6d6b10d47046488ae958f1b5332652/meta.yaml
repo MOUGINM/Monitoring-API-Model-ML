@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/bb6d6b10d47046488ae958f1b5332652/artifacts
+end_time: 1732185026265
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: active
+run_id: bb6d6b10d47046488ae958f1b5332652
+run_name: casual-shrike-56
+run_uuid: bb6d6b10d47046488ae958f1b5332652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732185017826
+status: 4
+tags: []
+user_id: MeM

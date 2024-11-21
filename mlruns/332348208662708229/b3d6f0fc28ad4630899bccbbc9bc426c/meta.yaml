@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/b3d6f0fc28ad4630899bccbbc9bc426c/artifacts
+deleted_time: 1732184913481
+end_time: 1732184770791
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: b3d6f0fc28ad4630899bccbbc9bc426c
+run_name: amazing-mule-756
+run_uuid: b3d6f0fc28ad4630899bccbbc9bc426c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184762107
+status: 3
+tags: []
+user_id: MeM

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/cb2e65a8f0c74b45836cebac21b90893/artifacts
+deleted_time: 1732184733143
+end_time: 1732184618208
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: cb2e65a8f0c74b45836cebac21b90893
+run_name: debonair-fowl-360
+run_uuid: cb2e65a8f0c74b45836cebac21b90893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184618136
+status: 3
+tags: []
+user_id: MeM

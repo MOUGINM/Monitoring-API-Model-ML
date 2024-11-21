@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/e60fc7c8a484419da91685b7ec531254/artifacts
+deleted_time: 1732184733127
+end_time: 1732184638751
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: e60fc7c8a484419da91685b7ec531254
+run_name: bustling-mouse-264
+run_uuid: e60fc7c8a484419da91685b7ec531254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184638678
+status: 3
+tags: []
+user_id: MeM

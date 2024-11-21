@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/87e53b09722544f9a474129f573df5f8/artifacts
+deleted_time: 1732184733126
+end_time: 1732184618492
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 87e53b09722544f9a474129f573df5f8
+run_name: worried-ox-338
+run_uuid: 87e53b09722544f9a474129f573df5f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184618419
+status: 3
+tags: []
+user_id: MeM

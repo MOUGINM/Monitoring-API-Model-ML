@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/d5b51481987944da8d54ac334a1aa93a/artifacts
+deleted_time: 1732184733169
+end_time: 1732184043852
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: d5b51481987944da8d54ac334a1aa93a
+run_name: clumsy-stork-525
+run_uuid: d5b51481987944da8d54ac334a1aa93a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184043771
+status: 3
+tags: []
+user_id: MeM

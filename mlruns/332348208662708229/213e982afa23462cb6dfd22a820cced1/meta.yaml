@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/213e982afa23462cb6dfd22a820cced1/artifacts
+deleted_time: 1732184733194
+end_time: 1732183648939
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 213e982afa23462cb6dfd22a820cced1
+run_name: burly-donkey-318
+run_uuid: 213e982afa23462cb6dfd22a820cced1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732183648882
+status: 3
+tags: []
+user_id: MeM

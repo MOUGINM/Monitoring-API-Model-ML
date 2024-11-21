@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/8d04ad97a8774ab995cbc0b2e7db58a2/artifacts
+deleted_time: 1732184733156
+end_time: 1732184562737
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 8d04ad97a8774ab995cbc0b2e7db58a2
+run_name: amazing-jay-707
+run_uuid: 8d04ad97a8774ab995cbc0b2e7db58a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184562653
+status: 3
+tags: []
+user_id: MeM

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/076497dcdac2412db37e9b743722f6be/artifacts
+deleted_time: 1732184733113
+end_time: 1732184647284
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 076497dcdac2412db37e9b743722f6be
+run_name: rebellious-elk-482
+run_uuid: 076497dcdac2412db37e9b743722f6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184638765
+status: 3
+tags: []
+user_id: MeM

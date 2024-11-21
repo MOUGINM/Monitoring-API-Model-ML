@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/5c0042c9cab3491cbad9b4f1fd3d4bcb/artifacts
+deleted_time: 1732184733182
+end_time: 1732183891455
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 5c0042c9cab3491cbad9b4f1fd3d4bcb
+run_name: powerful-shrike-892
+run_uuid: 5c0042c9cab3491cbad9b4f1fd3d4bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732183891373
+status: 3
+tags: []
+user_id: MeM

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/ea26331e06504aaeaac0750c8cd46f13/artifacts
+deleted_time: 1732184733169
+end_time: 1732184043722
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: ea26331e06504aaeaac0750c8cd46f13
+run_name: intelligent-hare-282
+run_uuid: ea26331e06504aaeaac0750c8cd46f13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184043637
+status: 3
+tags: []
+user_id: MeM

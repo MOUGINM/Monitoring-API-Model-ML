@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/d38fa85725ed4111b35db33ad8dfc052/artifacts
+deleted_time: 1732184733209
+end_time: 1732183412415
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: d38fa85725ed4111b35db33ad8dfc052
+run_name: loud-whale-109
+run_uuid: d38fa85725ed4111b35db33ad8dfc052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732183412352
+status: 3
+tags: []
+user_id: MeM

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/932801346fee40068516f791b899894f/artifacts
+deleted_time: 1732184733209
+end_time: 1732183449034
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 932801346fee40068516f791b899894f
+run_name: nervous-duck-565
+run_uuid: 932801346fee40068516f791b899894f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732183448963
+status: 3
+tags: []
+user_id: MeM

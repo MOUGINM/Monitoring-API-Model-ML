@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/e651aae912fe480f94e73ca4688495d3/artifacts
+deleted_time: 1732184733194
+end_time: 1732183679800
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: e651aae912fe480f94e73ca4688495d3
+run_name: defiant-squid-844
+run_uuid: e651aae912fe480f94e73ca4688495d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732183679728
+status: 3
+tags: []
+user_id: MeM

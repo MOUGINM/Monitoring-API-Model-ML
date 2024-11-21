@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/bad3ebf031974117ba93782848d296a0/artifacts
+deleted_time: 1732184733126
+end_time: 1732184618305
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: bad3ebf031974117ba93782848d296a0
+run_name: enthused-rat-916
+run_uuid: bad3ebf031974117ba93782848d296a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184618232
+status: 3
+tags: []
+user_id: MeM

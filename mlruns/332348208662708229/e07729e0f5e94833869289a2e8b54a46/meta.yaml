@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/e07729e0f5e94833869289a2e8b54a46/artifacts
+deleted_time: 1732184733172
+end_time: 1732183997004
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: e07729e0f5e94833869289a2e8b54a46
+run_name: carefree-hawk-747
+run_uuid: e07729e0f5e94833869289a2e8b54a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732183996948
+status: 3
+tags: []
+user_id: MeM

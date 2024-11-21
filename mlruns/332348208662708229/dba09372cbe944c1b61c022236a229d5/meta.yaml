@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/dba09372cbe944c1b61c022236a229d5/artifacts
+deleted_time: 1732184733144
+end_time: 1732184572586
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: dba09372cbe944c1b61c022236a229d5
+run_name: gentle-calf-646
+run_uuid: dba09372cbe944c1b61c022236a229d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184562755
+status: 3
+tags: []
+user_id: MeM

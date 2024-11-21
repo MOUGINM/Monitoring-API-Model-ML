@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/persotaff/bassam/monitoring/mlruns/332348208662708229/17587f1496c14696af38cb8caf4ef45f/artifacts
+deleted_time: 1732184733143
+end_time: 1732184618398
+entry_point_name: ''
+experiment_id: '332348208662708229'
+lifecycle_stage: deleted
+run_id: 17587f1496c14696af38cb8caf4ef45f
+run_name: trusting-fly-992
+run_uuid: 17587f1496c14696af38cb8caf4ef45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732184618328
+status: 3
+tags: []
+user_id: MeM
